@@ -1,0 +1,2 @@
+Problem with starting with AI and starting with X both enabled - Resolved by putting move = startMove before making the init AI move, in newGame
+Add player score - pain - least priority
